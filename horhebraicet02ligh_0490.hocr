@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./horhebraicet02ligh/horhebraicet02ligh_0490.png"; bbox 0 0 2200 3615; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 782 380 1598 810">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 782 380 1598 810">
+     <span class='ocr_line' id='line_1_1' title="bbox 782 380 1598 810; baseline 0 2805"><span class='ocrx_word' id='word_1_1' title='bbox 782 380 1598 810; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 901 695 1867 819">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 901 695 1867 819">
+     <span class='ocr_line' id='line_1_2' title="bbox 901 695 1867 819; baseline 0.009 -56"><span class='ocrx_word' id='word_1_2' title='bbox 901 718 918 798; x_wconf 94' lang='grc'>1</span> <span class='ocrx_word' id='word_1_3' title='bbox 972 719 1110 767; x_wconf 75' lang='grc'>1012</span> <span class='ocrx_word' id='word_1_4' title='bbox 1149 722 1329 771; x_wconf 83' lang='grc'>00117</span> <span class='ocrx_word' id='word_1_5' title='bbox 1368 726 1511 819; x_wconf 77' lang='grc'>8408</span> <span class='ocrx_word' id='word_1_6' title='bbox 1598 701 1600 703; x_wconf 61' lang='grc'>’</span> <span class='ocrx_word' id='word_1_7' title='bbox 1701 695 1762 701; x_wconf 48' lang='grc'>”</span> <span class='ocrx_word' id='word_1_8' title='bbox 1810 700 1867 725; x_wconf 68' lang='grc'>”’</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
